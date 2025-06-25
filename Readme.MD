@@ -84,7 +84,7 @@ http://localhost:3000
 
 ##  Live Demo
 
-> [Demo Link (Vercel/Netlify)](https://your-live-demo-url)
+> https://mars-dev-project.vercel.app/
 
 ---
 
